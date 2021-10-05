@@ -44,4 +44,4 @@ See assignment document shared with you, for where to submit the Zip file.
 ## Feedback
 
 ### Your feedback on this assignment
-Have feedback for how we could make this assignment better? Please let us know.
+Have feedback on this assignment? Please let us know.
