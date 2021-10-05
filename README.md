@@ -25,7 +25,7 @@ Did you do something that you feel could have been done better? Please let us kn
 
 ### What did you not include in your solution that you want us to know about? Were you short on time and not able to include something that you want us to know about? Please list it here so that we know that you considered it.
 
-### Other information about your submission that you feel is important that we know.
+### Other information about your submission that you feel is important that we know
 
 ## Submission
 
