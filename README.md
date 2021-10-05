@@ -1,12 +1,11 @@
 
 # Thinkific Categorize Your Expenses Assignment
 
-For this test you’ll be given a CSV file which has your expenses. Your task is to programmatically fill out the categories and subcategories then provide a summary report.
+For this test you’ll be using a CSV file included in this repository. 
+Please follow the assignment document shared with you for detailed instructions.
 
  1. You can use any programming language you like
- 2. Follow the assignment document shared with you for detailed instructions
- 3. Use CSV file in this repository as the input file
- 4. Submission instruction are below
+ 2. Submission instructions are below
 
 ## Submission
 
