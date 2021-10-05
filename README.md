@@ -9,7 +9,7 @@ Please see the assignment document shared with you for detailed instructions.
  4. Follow submission instructions below
 
 ## Questions
-Update this README file to answering the questions below:
+Update this README file by answering the questions below:
 
 ### Date Or Reflection
 The date you're submitting this.
