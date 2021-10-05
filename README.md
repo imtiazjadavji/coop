@@ -39,7 +39,7 @@ Zip the following items:
  - Source code (your program)
  - Artifacts / Outputs from assignment
 
-See assignment document shared with you, for where you submit the Zip file.
+See assignment document shared with you, for where to submit the Zip file.
 
 ## Feedback
 
