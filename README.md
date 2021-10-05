@@ -1,7 +1,7 @@
 # Thinkific Categorize Your Expenses
 
 For this test you’ll be using a CSV file included in this repository. 
-Please follow the assignment document shared with you for detailed instructions.
+Please see the assignment document shared with you for detailed instructions.
 
  1. You can use any programming language you like
  2. Download this README for editing
