@@ -37,7 +37,7 @@ Zip the following items:
 
  - This README.md file (filled in with your answers)
  - Source code (your program)
- - Sorted transactions CSV file
+ - Artifacts / Outputs from assignment
 
 See assignment document shared with you, for where you submit the Zip file.
 
